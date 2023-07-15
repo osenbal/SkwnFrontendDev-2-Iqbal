@@ -1,0 +1,23 @@
+.container_profile_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 0;
+}
+
+.container_profile_header .profile_img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.greeting {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #6d6e88;
+}
+
+.container_profile_header .user_name {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
